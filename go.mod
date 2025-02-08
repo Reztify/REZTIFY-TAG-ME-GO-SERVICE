@@ -1,3 +1,0 @@
-module REZTIFY-TAG-ME-GO-SERVICE
-
-go 1.23
